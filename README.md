@@ -49,6 +49,9 @@ open index.html
 
 📷 Screenshots
 (Add screenshots if available)
+<img width="1364" height="609" alt="image-gallery-project" src="https://github.com/user-attachments/assets/8d8923b9-191d-4475-81c8-1e405e43c2d0" />
+<img width="1364" height="609" alt="image" src="https://github.com/user-attachments/assets/8e9a598f-f918-4a7b-a94c-69ce18104847" />
+
 
 
 
